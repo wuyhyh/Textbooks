@@ -1,52 +1,99 @@
-# Prerequisites
-*.d
+# directories
+.idea/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# files
+.DS_Store
 
-# Linker output
-*.ilk
-*.map
-*.exp
+## Algorithms/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Algorithms/Algorithms-4th-Edition.pdf
+# Algorithms/Introduction to Algorithms.pdf
+# Algorithms/算法4e.pdf
+Algorithms/数据结构 (陈越、何钦铭、徐镜春、魏宝刚、杨枨编) (z-lib.org).pdf
+Algorithms/算法设计指南（第2版）清华计算机图书译丛 (Steven S.Skiena 谢勰) (Z-Library).pdf
+Algorithms/算法导论（原书第3版） (Thomas H.Cormen,Charles E.Leiserson etc.) (Z-Library).pdf
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+## Architecture/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Architecture/But how do it know.pdf
+# Architecture/CSAPP_2016.pdf
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+## Culture/
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+#Culture/README.md
+Culture/Just for Fun The Story of an Accidental Revolutionary.pdf
+Culture/只是为了好玩 Linux之父林纳斯自传 (Linus Torvalds David Diamond) (Z-Library).pdf
+Culture/大教堂与集市 (（美）Eric S.Raymond著；卫剑钒译) (Z-Library).pdf
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+## Language/
+
+Language/C - A Reference Manual.pdf
+Language/C专家编程 (Perter Van Der Linden) (Z-Library).pdf
+Language/Practical C programming (Steve Oualline) (Z-Library).pdf
+
+# Language/The C Programming Language.pdf
+# Language/C程序设计语言.pdf
+# Language/Structure and Interpretation of Computer Programs.pdf
+# Language/计算机程序的构造和解释.pdf
+# Language/Python编程：从入门到实践.pdf
+
+## LinuxBooks/
+
+# LinuxBooks/Advanced Programming in the UNIX Environment.pdf
+# LinuxBooks/Linux%20Kernel%20Development%20(Robert%20Love).pdf
+# LinuxBooks/Linux内核设计与实现(原书第3版).pdf
+# LinuxBooks/Linux Device Drivers.pdf
+# LinuxBooks/The Linux programming interface a Linux and UNIX system programming handbook.pdf
+# LinuxBooks/Linux-UNIX系统编程手册（上、下册）.pdf
+# LinuxBooks/Linux内核0.12完全注释_V5.0.pdf
+
+LinuxBooks/The Art of UNIX Programming.pdf
+LinuxBooks/Linux Kernel Networking - Implementation and Theory.pdf
+
+## Mathmatics/
+
+# Mathmatics/怎样解题 数学思维的新方法.pdf
+
+## Networks/
+
+#### RDMA/
+
+# Networks/RDMA/RDMA_Aware_Programming_user_manual.pdf
+# Networks/RDMA/pingpong.pdf
+
+## OperatingSystems/
+
+# OperatingSystems/Modern Operating Systems.pdf
+# OperatingSystems/Operating Systems Design and Implementation.pdf
+OperatingSystems/操作系统设计与实现 第三版（上册）.pdf
+OperatingSystems/操作系统设计与实现 第三版（下册）.pdf
+# OperatingSystems/Operating Systems Three Easy Pieces.pdf
+# OperatingSystems/操作系统导论.pdf
+
+## Others/
+
+Others/老实人启蒙 (薛凯, 陆亚) (Z-Library).pdf
+Others/文学写作手册 (朱明雄等编著) (Z-Library).pdf
+Others/天涯房市神贴wiltedpot版本.pdf
+Others/为什么是毛泽东.pdf
+Others/青少年近视简易疗法 (日本学校性近视防治研究所) (z-lib.org).pdf
+
+# Others/上海交通大学学生生存手册.pdf
+
+Others/上海两地婚姻的阶层匹配研究_邓志强.pdf
+
+## Tools/
+
+# Tools/13-linking.pdf
+# Tools/tlcl-cn.pdf
+# Tools/progit.pdf
+
+Tools/Debugging with GDB v8.3.1 (Richard Stallman, Roland Pesch, Stan Shebs) (Z-Library).pdf
+Tools/gdb手册(debuging with gdb)(中文) (shyboysby.spaces.live.com 译) (Z-Library).pdf
+
+#### make/
+
+# Tools/make/跟我一起写Makefile.pdf
+Tools/make/Managing Projects with GNU Make (Robert Mecklenburg) (Z-Library).pdf
+Tools/make/make.pdf
+# Tools/make/modern-cmake.pdf
