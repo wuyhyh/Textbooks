@@ -1,6 +1,11 @@
 # directories
 .idea/
 
+# 不上传不高清的pdf
+
+# 不上传中文pdf
+PDF-CN/
+
 # files
 .DS_Store
 
@@ -59,6 +64,7 @@ LinuxBooks/Linux Kernel Networking - Implementation and Theory.pdf
 #### RDMA/
 
 # Networks/RDMA/RDMA_Aware_Programming_user_manual.pdf
+# Networks/RDMA/IB Specification Vol 1-Release-1.4.pdf
 # Networks/RDMA/pingpong.pdf
 
 ## OperatingSystems/

@@ -92,9 +92,7 @@
 - Debugging with GDB v8.3.1 (Richard Stallman, Roland Pesch, Stan Shebs) (Z-Library).pdf
 - gdb手册(debuging with gdb)(中文) (shyboysby.spaces.live.com 译) (Z-Library).pdf
 
-#### make
-
-- [跟我一起写Makefile.pdf](./Tools/make/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile.pdf)
+- [跟我一起写Makefile.pdf](./Tools/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile.pdf)
 - Managing Projects with GNU Make (Robert Mecklenburg) (Z-Library).pdf
 - make.pdf
-- [modern-cmake.pdf](./Tools/make/modern-cmake.pdf)
+- [modern-cmake.pdf](./Tools/modern-cmake.pdf)
